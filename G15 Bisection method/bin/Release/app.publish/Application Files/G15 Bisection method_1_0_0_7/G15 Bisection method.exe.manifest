@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity version="1.0.0.7" name="G15 Bisection method.exe" publicKeyToken="e14ab0bff20eeea0" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="icons8-calculator-48.ico.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="G15 Bisection method" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="G15 Bisection method.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="G15 Bisection method.exe" size="555008">
+      <assemblyIdentity name="G15 Bisection method" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>3M/USsTe9bAF+E26uFeOywpBevA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="icons8-calculator-48.ico.ico" size="110742">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>9zaWZ0IYwAY1KrS+9fpIR1+70HU=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=ELTANTAWY\HASSAN" issuerKeyHash="1d97876106db503a3eca4fab9669d6dfefee0651" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>pCL7gTgTC/IBxM3gp33/T7NiFhM=</DigestValue></Reference></SignedInfo><SignatureValue>vZYcltKzj5WEc3lC45PwO9RCuLrXNK0qnxnZUL94pspeOJuYRqP09UGc37voWHrSJ0vDMh9TSrrGitUQEA7lS6vAiugableGAUykfueUSupRuO21ekRddgOzHfrN+dqmtw7O9wwdl1+KC5Bzg/F6sTNnctWflt70qQnqCyM/aPc=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>06XQUNBpoanLMWNDCuovXetKBw3/jb7Lm4seOAaPyXhRpiQ6AT5djY1Uz6E5bXPXlEIybZaBFo93GKRqCCAIJSwxOXFB2ftoi5UjDpqAzPPGNx9xkJ2l3joWC80YuIT6YUm4mU/2MQD6WIF6CW0nKvYez5eafJCORrAsvDpZc90=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="131662b34fff7da7e0cdc401f20b133881fb22a4" Description="" Url=""><as:assemblyIdentity version="1.0.0.7" name="G15 Bisection method.exe" publicKeyToken="e14ab0bff20eeea0" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=ELTANTAWY\HASSAN</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>PQ0o1xZ41iIz7Su0TAgbvxBgmNs=</DigestValue></Reference></SignedInfo><SignatureValue>JCROSa17ICLr/w7tX61RmutyVHB0LxOsPm7JePW6D1zKaXN+VeGOcKq0NPKLVnbkIqz4K14uKbnYvYhvKzNaaOrh0gISUBnEmRdxWbb54O+WFcOCZymycOd25TqORy5zq8NwLkqwdD0wZ23HRmhkkltdp8DRLXanyBBHR3SNGKQ=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>06XQUNBpoanLMWNDCuovXetKBw3/jb7Lm4seOAaPyXhRpiQ6AT5djY1Uz6E5bXPXlEIybZaBFo93GKRqCCAIJSwxOXFB2ftoi5UjDpqAzPPGNx9xkJ2l3joWC80YuIT6YUm4mU/2MQD6WIF6CW0nKvYez5eafJCORrAsvDpZc90=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB2TCCAUKgAwIBAgIQWucd/b0Ql7tLK35D1nSlszANBgkqhkiG9w0BAQUFADArMSkwJwYDVQQDHiAARQBMAFQAQQBOAFQAQQBXAFkAXABIAEEAUwBTAEEATjAeFw0xOTEyMDcyMzIxNDJaFw0yMDEyMDcwNTIxNDJaMCsxKTAnBgNVBAMeIABFAEwAVABBAE4AVABBAFcAWQBcAEgAQQBTAFMAQQBOMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDTpdBQ0GmhqcsxY0MK6i9d60oHDf+Nvsubix44Bo/JeFGmJDoBPl2NjVTPoTltc9eUQjJtloEWj3cYpGoIIAglLDE5cUHZ+2iLlSMOmoDM88Y3H3GQnaXeOhYLzRi4hPphSbiZT/YxAPpYgXoJbScq9h7Pl5p8kI5GsCy8Ollz3QIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAJORelzZ9UkqcrO3W8TPdA9Q8cBfTRrf8ps08QrR3eUkFgHV6+SkFTCrCComHtT/3kYLfdpjwKK77p94HZZA6Ez9fnJ6l5170hskgUToULudKsnslSfuDLxSikjrTz2jwws/Rg9N/ttl9dJBwZYzz/5+BJQuLO4Wv+/P4W1L+sLR</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

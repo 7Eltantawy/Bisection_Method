@@ -1,0 +1,10 @@
+C:\Users\HASSAN\AppData\Local\Temporary Projects\test004\bin\Debug\test004.exe
+C:\Users\HASSAN\AppData\Local\Temporary Projects\test004\bin\Debug\test004.pdb
+C:\Users\HASSAN\AppData\Local\Temporary Projects\test004\bin\Debug\test004.xml
+C:\Users\HASSAN\AppData\Local\Temporary Projects\test004\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HASSAN\AppData\Local\Temporary Projects\test004\obj\Debug\test004.Form1.resources
+C:\Users\HASSAN\AppData\Local\Temporary Projects\test004\obj\Debug\test004.Resources.resources
+C:\Users\HASSAN\AppData\Local\Temporary Projects\test004\obj\Debug\test004.vbproj.GenerateResource.Cache
+C:\Users\HASSAN\AppData\Local\Temporary Projects\test004\obj\Debug\test004.exe
+C:\Users\HASSAN\AppData\Local\Temporary Projects\test004\obj\Debug\test004.xml
+C:\Users\HASSAN\AppData\Local\Temporary Projects\test004\obj\Debug\test004.pdb

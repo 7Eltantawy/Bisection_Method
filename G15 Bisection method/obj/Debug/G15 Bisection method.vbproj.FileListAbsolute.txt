@@ -1,0 +1,32 @@
+C:\Users\HASSAN\Documents\Visual Studio 2008\Projects\G15 Bisection method\G15 Bisection method\bin\Debug\G15 Bisection method.exe.manifest
+C:\Users\HASSAN\Documents\Visual Studio 2008\Projects\G15 Bisection method\G15 Bisection method\bin\Debug\G15 Bisection method.application
+C:\Users\HASSAN\Documents\Visual Studio 2008\Projects\G15 Bisection method\G15 Bisection method\bin\Debug\G15 Bisection method.exe
+C:\Users\HASSAN\Documents\Visual Studio 2008\Projects\G15 Bisection method\G15 Bisection method\bin\Debug\G15 Bisection method.pdb
+C:\Users\HASSAN\Documents\Visual Studio 2008\Projects\G15 Bisection method\G15 Bisection method\bin\Debug\G15 Bisection method.xml
+C:\Users\HASSAN\Documents\Visual Studio 2008\Projects\G15 Bisection method\G15 Bisection method\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HASSAN\Documents\Visual Studio 2008\Projects\G15 Bisection method\G15 Bisection method\obj\Debug\test004.Form1.resources
+C:\Users\HASSAN\Documents\Visual Studio 2008\Projects\G15 Bisection method\G15 Bisection method\obj\Debug\test004.Resources.resources
+C:\Users\HASSAN\Documents\Visual Studio 2008\Projects\G15 Bisection method\G15 Bisection method\obj\Debug\G15 Bisection method.vbproj.GenerateResource.Cache
+C:\Users\HASSAN\Documents\Visual Studio 2008\Projects\G15 Bisection method\G15 Bisection method\obj\Debug\G15 Bisection method.exe.manifest
+C:\Users\HASSAN\Documents\Visual Studio 2008\Projects\G15 Bisection method\G15 Bisection method\obj\Debug\G15 Bisection method.application
+C:\Users\HASSAN\Documents\Visual Studio 2008\Projects\G15 Bisection method\G15 Bisection method\obj\Debug\G15 Bisection method.exe
+C:\Users\HASSAN\Documents\Visual Studio 2008\Projects\G15 Bisection method\G15 Bisection method\obj\Debug\G15 Bisection method.xml
+C:\Users\HASSAN\Documents\Visual Studio 2008\Projects\G15 Bisection method\G15 Bisection method\obj\Debug\G15 Bisection method.pdb
+C:\Users\HASSAN\Documents\Visual Studio 2008\Projects\G15 Bisection method\G15 Bisection method\obj\Debug\test004.close.resources
+C:\Users\HASSAN\Documents\Visual Studio 2008\Projects\G15 Bisection method\G15 Bisection method\obj\Debug\test004.Form2.resources
+D:\Hasan\work\Applications\G15 Bisection method\G15 Bisection method\obj\Debug\G15 Bisection method.exe
+D:\Hasan\work\Applications\G15 Bisection method\G15 Bisection method\obj\Debug\G15 Bisection method.xml
+D:\Hasan\work\Applications\G15 Bisection method\G15 Bisection method\obj\Debug\G15 Bisection method.pdb
+D:\Hasan\work\Applications\G15 Bisection method\G15 Bisection method\bin\Debug\G15 Bisection method.exe.manifest
+D:\Hasan\work\Applications\G15 Bisection method\G15 Bisection method\bin\Debug\G15 Bisection method.application
+D:\Hasan\work\Applications\G15 Bisection method\G15 Bisection method\bin\Debug\G15 Bisection method.exe
+D:\Hasan\work\Applications\G15 Bisection method\G15 Bisection method\bin\Debug\G15 Bisection method.pdb
+D:\Hasan\work\Applications\G15 Bisection method\G15 Bisection method\bin\Debug\G15 Bisection method.xml
+D:\Hasan\work\Applications\G15 Bisection method\G15 Bisection method\obj\Debug\ResolveAssemblyReference.cache
+D:\Hasan\work\Applications\G15 Bisection method\G15 Bisection method\obj\Debug\test004.close.resources
+D:\Hasan\work\Applications\G15 Bisection method\G15 Bisection method\obj\Debug\test004.Form1.resources
+D:\Hasan\work\Applications\G15 Bisection method\G15 Bisection method\obj\Debug\test004.Form2.resources
+D:\Hasan\work\Applications\G15 Bisection method\G15 Bisection method\obj\Debug\test004.Resources.resources
+D:\Hasan\work\Applications\G15 Bisection method\G15 Bisection method\obj\Debug\G15 Bisection method.vbproj.GenerateResource.Cache
+D:\Hasan\work\Applications\G15 Bisection method\G15 Bisection method\obj\Debug\G15 Bisection method.exe.manifest
+D:\Hasan\work\Applications\G15 Bisection method\G15 Bisection method\obj\Debug\G15 Bisection method.application
